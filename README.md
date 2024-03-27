@@ -1,6 +1,6 @@
 # quiz_game
 
-![image](https://github.com/xerlab/Quiz-game/assets/154817622/6b068f1f-81ee-49ca-8ac2-3bb56785587f)
+![ezgif-4-ee1b9d5995](https://github.com/xerlab/Quiz-game/assets/154817622/ea45de79-c776-4460-bea7-093566cd39cb)
 
 
 This template should help get you started developing with Vue 3 in Vite.
